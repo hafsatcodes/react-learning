@@ -19,10 +19,6 @@ for(let i=0;i<data.results.length;i++) {
 
   console.log(data.results[i])
 }
-
- 
-
-  // console.log(data.results)
  return data.results
 }
 
